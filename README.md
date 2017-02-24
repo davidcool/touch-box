@@ -1,2 +1,2 @@
 # touch-box
-Based on SparkFun Digital Handpan: https://www.sparkfun.com/news/2222
+Touch music device based on SparkFun Digital Handpan: https://www.sparkfun.com/news/2222
